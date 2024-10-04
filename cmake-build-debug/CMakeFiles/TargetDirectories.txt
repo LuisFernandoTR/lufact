@@ -1,0 +1,3 @@
+/home/fernando/CODE/lufact/cmake-build-debug/CMakeFiles/CODE.dir
+/home/fernando/CODE/lufact/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fernando/CODE/lufact/cmake-build-debug/CMakeFiles/rebuild_cache.dir
